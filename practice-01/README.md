@@ -1,4 +1,4 @@
-# Parctice 01
+# Practice 01
 2020.02.10
 
 Készítsd el a Fibonacci-függvény rekurzív és iteratív implementációját, és teszteld őket néhány konkrét értékre.<br>
