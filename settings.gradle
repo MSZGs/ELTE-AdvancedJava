@@ -1,2 +1,4 @@
 rootProject.name = 'ELTE-AdvancedJava'
 include 'practice-01'
+include 'practice-02'
+
